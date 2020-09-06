@@ -1,2 +1,4 @@
-# backup-Wolfs-task-manager
-Created with CodeSandbox
+# task-list-manager
+
+Task List Manager Project by Rachel Bock
+Project Created 9/4/2020
